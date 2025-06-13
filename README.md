@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Yusuf Emre Albayrak**!  
 
-- 🎯 A passionate **software developer** and **data scientist** exploring the intersection of technology and science!  
+- 🎯 A passionate **software engineering** and **everything about development** exploring the intersection of technology and science!  
 - 💻 Specializing in problem-solving, algorithm design
 - 🎓 Currently a 3rd-year Software Engineering student at **Beykent University**.  
 
