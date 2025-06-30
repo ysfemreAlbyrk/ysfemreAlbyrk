@@ -9,5 +9,4 @@
 
 ## 📫 Contact Me  
 - 📧 **Email:** ysfemrealbyrk@gmail.com  
-![](https://media.tenor.com/LdPYwrYLgeYAAAAM/guy-funny.gif)
-- Ohh hell look at my website www.ysfemrealbayrak.com
+- Look at my website www.ysfemrealbayrak.com
