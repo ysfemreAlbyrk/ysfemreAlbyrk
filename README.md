@@ -2,7 +2,7 @@
 
 - 🎯 A passionate **software engineering** and **everything about development** exploring the intersection of technology and science!  
 - 💻 Specializing in problem-solving, algorithm design. i love vibe coding.
-- 🎓 Currently a 4rd-year Software Engineering student at **Beykent University**.  
+- 🎓 Currently a 4th-year Software Engineering student at **Beykent University**.  
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
